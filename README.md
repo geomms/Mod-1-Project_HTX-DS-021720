@@ -30,7 +30,7 @@ Feel free to use Tableau or Power BI to create your visualizations, although doi
 
 ## Project Checklist
 
-- Pull data, potentially from more than one wource
+- Pull data, potentially from more than one source
 
     - Establish naming conventions for variables and datasets
     - Clean datasets, *and record the parameters used to clean the data*
