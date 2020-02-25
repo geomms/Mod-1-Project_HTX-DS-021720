@@ -2,9 +2,9 @@
 
 Congratulations! 
 
-You have made it to your first project! Huzzah!
+You made it to your first project! Huzzah!
 
-![](https://media.giphy.com/media/3otPoS81loriI9sO8o/giphy.gif)
+![Very excited hockey child from Tenor gifs](https://media1.tenor.com/images/73a2b343f822a64747d48aab99dabb5f/tenor.gif?itemid=12276288)
 
 Let's dive in...
 
@@ -24,7 +24,7 @@ Microsoft does not have **any** data, so your team should use web scraping and A
 
 ## Deliverables
 
-Your team must prepare a 5 minute, **non-technical** presentation that gives the CEO insights as to what type of films they should be creating to meet consumer demand. Your presentation should outline the process you went through and use meaningful data visualizations to help illustrate your findings. Your team is expected to use git as a collaborative tool for this project to manage version control and history.
+Your team must prepare a 5-7 minute **non-technical** presentation that gives the CEO insights as to what type of films they should be creating to meet consumer demand. Your presentation should outline the process you went through and use meaningful data visualizations to help illustrate your findings. Your team is expected to use GitHub as a collaborative tool for this project to manage version control and history.
 
 Feel free to use Tableau or Power BI to create your visualizations, although doing some or all in Python is also perfectly fine (you should be able to do both!). We expect the presentation to be a slideshow (Google Slides, PowerPoint, Keynote, or check out [Canva](https://www.canva.com/)). Remember, this is a *non-technical* presentation, and should not contain code, or raw variable names, or statistics jargon, or anything else that may confuse someone who hasn't been in this bootcamp!
 
@@ -58,8 +58,6 @@ Feel free to use Tableau or Power BI to create your visualizations, although doi
 
 In the end, your instructor and coach (and strangers!) should be able to view a well-commented git commit history for each element in the git repository. Git commit whenever you make changes, aiming for at least twice a day! 
 
-For a full list of expectations for your project, check out the [Project 1 Rubric](https://docs.google.com/document/d/1dvIQQ-kdQi8wJVNvq17Q9-jV7-E6HnNH34vy0-931TQ/edit?usp=sharing).
-
 ## Suggestions
 
 - Spend some up-front time diving into data acquisition - what data are you trying to get, how are you going to get it, etc. - then test out your plan to make sure it's feasible before fully committing to it
@@ -72,7 +70,7 @@ For a full list of expectations for your project, check out the [Project 1 Rubri
 
 - Plan out your questions and how you'll be doing the analysis **before** you start coding. This is the place you can likely split up the work, but be sure to keep checking in with your partner - they likely are doing cool things that you may want to use!
 
-- Save time at the end to clean up your notebook and repository, create and practice your presentation, and otherwise cross your t's/dot your i's. 
+- Save time at the end of the week to clean up your notebook and repository, create and practice your presentation, and otherwise cross your t's/dot your i's. 
 
 And remember - you got this.
 
